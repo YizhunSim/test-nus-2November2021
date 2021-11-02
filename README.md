@@ -1,7 +1,7 @@
-# This is a test repository
+# Cryptmon Repository
 # Cryptmon
 ![DaUser](https://user-images.githubusercontent.com/30018388/139793966-4b3c6cda-b85c-45a3-a687-de5080200bec.png)
-## Smaller Text
+## Crypto Financial Literacy Platform
 
 You have been attacked by cryptomon!
 
