@@ -6,4 +6,4 @@ Playing around with my test repository!
 
 
 * this is a list item
-* this is a another list item
+* this is another list item
