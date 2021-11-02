@@ -5,5 +5,5 @@
 Playing around with my test repository!
 
 
-* this is a list item
-* this is another list item
+* This is a list item
+* This is another list item
